@@ -1,0 +1,13 @@
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.exe
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.deps.json
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.runtimeconfig.json
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.runtimeconfig.dev.json
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.dll
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\bin\Debug\netcoreapp3.1\Test_Array1.pdb
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.csprojAssemblyReference.cache
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.csproj.CoreCompileInputs.cache
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.AssemblyInfoInputs.cache
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.AssemblyInfo.cs
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.dll
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.pdb
+C:\Users\eij19\source\repos\Test_Array1\Test_Array1\obj\Debug\netcoreapp3.1\Test_Array1.genruntimeconfig.cache

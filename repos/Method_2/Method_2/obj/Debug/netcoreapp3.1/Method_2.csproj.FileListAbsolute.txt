@@ -1,0 +1,13 @@
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.exe
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.deps.json
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.runtimeconfig.json
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.runtimeconfig.dev.json
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.dll
+C:\Users\eij19\source\repos\Method_2\Method_2\bin\Debug\netcoreapp3.1\Method_2.pdb
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.AssemblyInfoInputs.cache
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.AssemblyInfo.cs
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.csproj.CoreCompileInputs.cache
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.dll
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.pdb
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.genruntimeconfig.cache
+C:\Users\eij19\source\repos\Method_2\Method_2\obj\Debug\netcoreapp3.1\Method_2.csprojAssemblyReference.cache

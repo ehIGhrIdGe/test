@@ -1,0 +1,13 @@
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.exe
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.deps.json
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.runtimeconfig.json
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.runtimeconfig.dev.json
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.dll
+C:\Users\eij19\source\repos\Method_4\Method_4\bin\Debug\netcoreapp3.1\Method_4.pdb
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.csprojAssemblyReference.cache
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.AssemblyInfoInputs.cache
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.AssemblyInfo.cs
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.csproj.CoreCompileInputs.cache
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.dll
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.pdb
+C:\Users\eij19\source\repos\Method_4\Method_4\obj\Debug\netcoreapp3.1\Method_4.genruntimeconfig.cache
